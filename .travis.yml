@@ -6,6 +6,7 @@ python:
 # dependencies
 install:
   - pip install coverage
+  - pip install amtStats
   - pip install coveralls
 
 # command to run
