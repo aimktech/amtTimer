@@ -42,6 +42,9 @@ setup(
     license='Apache 2.0',
     packages=find_packages(exclude=["docs", "tests"]),
     package_data={PACKAGE_NAME: ["py.typed"]},
+    install_requires=[
+        "amtStats >= 1.0.0"
+    ],
     platforms=["any"],
     zip_safe=False,
 )
