@@ -80,7 +80,7 @@ This package is released under the Apache License 2.0. See the bundled
 `LICENSE`_ file for details.
 
 
-.. _amtStats: https://https://github.com/aimktech/amtStats
+.. _amtStats: https://github.com/aimktech/amtStats
 
 .. _LICENSE: https://github.com/aimktech/amtTimer/blob/master/LICENSE.txt
 
